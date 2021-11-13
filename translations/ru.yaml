@@ -1,0 +1,15 @@
+---
+X days:
+  one: "{{.PluralCount}} день"
+  few: "{{.PluralCount}} дня"
+  many: "{{.PluralCount}} дней"
+
+X hours:
+  one: "{{.PluralCount}} час"
+  few: "{{.PluralCount}} часа"
+  many: "{{.PluralCount}} часов"
+
+X minutes:
+  one: "{{.PluralCount}} минута"
+  few: "{{.PluralCount}} минуты"
+  many: "{{.PluralCount}} минут"
